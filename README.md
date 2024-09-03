@@ -1,2 +1,3 @@
 # app-search
-search your AppStore app on app-search
+
+Welcome to submit any issues encountered during use.
