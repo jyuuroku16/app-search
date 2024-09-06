@@ -4,6 +4,6 @@ Welcome to submit any issues encountered during use.
 
 ## roadmap
 
-- Mac App Search
+- ~~Mac App Search~~
 
-- A home page
+- ~~A home page~~
