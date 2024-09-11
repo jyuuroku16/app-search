@@ -7,3 +7,5 @@ Welcome to submit any issues encountered during use.
 - ~~Mac App Search~~
 
 - ~~A home page~~
+
+- Show In-App Purchases Price
