@@ -8,4 +8,4 @@ Welcome to submit any issues encountered during use.
 
 - ~~A home page~~
 
-- Show In-App Purchases Price
+- ~~Show In-App Purchases Price~~
